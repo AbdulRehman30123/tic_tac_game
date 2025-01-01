@@ -35,8 +35,7 @@ A simple and interactive Tic Tac Toe game built using **Jetpack Compose**. This 
 4. Run the app on an emulator or a physical Android device.
 
 ## Screenshots
-![Screenshot 1](path_to_screenshot1.png)
-![Screenshot 2](path_to_screenshot2.png)
+![Screenshot 1](screenshots/tic_tac_ss.jpeg)
 
 ## Future Improvements
 - Add AI-based single-player mode.
