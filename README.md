@@ -51,7 +51,7 @@ A simple and interactive Tic Tac Toe game built using **Jetpack Compose**. This 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923025865872)
 
 ## Feedback and Contributions
-Feel free to share your feedback or contribute to this project! Contact me on [LinkedIn](https://linkedin.com/in/abdul-rehman-09b81b283)] or create an issue/pull request in the repository.
+Feel free to share your feedback or contribute to this project! Contact me on [LinkedIn](https://linkedin.com/in/abdul-rehman-09b81b283) or create an issue/pull request in the repository.
 
 ---
 
