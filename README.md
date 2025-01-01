@@ -43,6 +43,12 @@ A simple and interactive Tic Tac Toe game built using **Jetpack Compose**. This 
 - Optimize game logic for better performance.
 - Add a settings screen for customization (e.g., themes, grid size).
 
+## Clone the Repository
+   git clone https://github.com/muhammaduthman688/Animated-Onboarding-Screen.git
+
+## *Contact me*
+![WhatsApp](https://wa.me/923025865872) ![Gmail](mailto:studyrehman30123@gmail.com)
+
 ## Feedback and Contributions
 Feel free to share your feedback or contribute to this project! Contact me on [LinkedIn](https://www.linkedin.com) or create an issue/pull request in the repository.
 
